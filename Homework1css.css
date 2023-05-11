@@ -1,0 +1,24 @@
+.color-bg {
+    background-color:hsl(212, 45%, 89%)
+}
+.card-1 {
+    border-radius: 12px 12px 12px 12px;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+@font-face{
+    font-family: 'Outfit';
+    src: url('Outfit-VariableFont_wght.ttf') format('woff');
+    url('Font_File.ttf') format('ttf');
+}
+.color-text1 {
+    font-family: Outfit;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+
+}
